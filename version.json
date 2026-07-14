@@ -1,12 +1,12 @@
 {
-  "version": "3.3.0",
+  "version": "3.3.1",
   "release_date": "2026-07-13",
-  "download_url": "https://github.com/Ali-Sabah-Programmer/mahali-releases/releases/download/v3.3.0/Mahali_Setup_3.3.0.exe",
-  "file_size": 36255699,
+  "download_url": "https://github.com/Ali-Sabah-Programmer/mahali-releases/releases/download/v3.3.1/Mahali_Setup_3.3.1.exe",
+  "file_size": 36250327,
   "changes": [
     "إعادة تصميم لوحة التحكم: مبيعات وأرباح اليوم، أموالي الآن، صافي رأس المال، ورسم بياني لآخر ٧ أيام",
     "إعادة تصميم صفحة التقارير: تقارير يومية وشهرية وسنوية مع رسوم بيانية وتصدير PDF",
     "تطوير القاصة: فلترة حسب التاريخ ونوع الحركة، وملخص يتبع الفترة المختارة",
-    "تغيير الشعار الافتراضي إلى شعار محلي"
+    "طباعة إيصال حراري عند تسديد ديون الزبائن"
   ]
 }
